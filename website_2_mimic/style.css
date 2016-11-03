@@ -1,0 +1,46 @@
+body {
+  background-color: #777;
+}
+
+h2 {
+  text-align: center
+}
+
+.menu {
+  border: 2px dashed black;
+  padding-top: 15px;
+  float: left;
+  width: 20%;
+  padding-bottom: 50px;
+}
+
+.image {
+  text-align: center;
+}
+
+.clearfix {
+  clear: both;
+}
+
+#jakeimage {
+  width: 50%;
+  height: auto;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.info {
+  float: left;
+  width: 49%;
+  text-align: center;
+  border-right: 3px solid black;
+  padding-right: 10px;
+}
+
+.info2 {
+  float: left;
+  width: 49%;
+  text-align: center;
+}
